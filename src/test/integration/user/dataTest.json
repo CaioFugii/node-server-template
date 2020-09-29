@@ -1,0 +1,17 @@
+{
+    "USUARIO_CORRETO": {
+        "name": "Caio Vinicius Oliveira Fugii",
+        "email":"cijawa5030@youlynx.com",
+        "phoneNumber": "+551323456789",
+        "groupId": "1",
+        "operatorKey": "metro_rio"
+    },
+
+    "USUARIO_EXISTENTE":{
+        "name": "Caio Vinicius Oliveira Fugii",
+        "email":"caio.fugii@hotmail.com",
+        "phoneNumber": "+551323456789",
+        "groupId": "1",
+        "operatorKey": "metro_rio"
+    }
+}
